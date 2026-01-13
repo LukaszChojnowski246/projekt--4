@@ -1,0 +1,68 @@
+#megarodzic{
+    display: flex;
+    flex-direction: column;
+}
+.ikona2{
+    width: 100px;
+    height: 100px;
+}
+
+.gora{
+    height: 100%;
+    display: flex;
+}
+
+.DNL{
+    color: white;
+    font-size: x-large;
+    height: 100%;
+    width: 50%;
+    background-color: #493FA7;
+    text-align: center;
+    font-family: arial;
+}
+
+.info{
+    text-align: center;
+    font-family: arial;
+    height: 129px;
+    width: 50%;
+    background-color: #E5E6EB;
+}
+
+.srodek{
+    flex-direction: column;
+    display: flex;
+    font-family: arial;
+    color: white;
+    height: 630px;
+    width: 75%;
+    background-color: #493FA7;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 12px
+}
+
+.bok{
+    height: 90%;
+    width: 40%;
+    background-color: #493FA7 ;
+}
+
+.date{
+    height: 50px;
+    width: 200px;
+}
+
+.dni{
+    height: 100px;
+    width: 100px;
+    background-color: #FAC748;
+    
+    
+}
+
+aside{
+    height: 90%;
+    width: 40%;
+}
